@@ -1,6 +1,6 @@
 # MineDB
 
-MineDB is a simple database implemented by Java
+MineDB is a simple database implemented by Java,
 some principles are referenced from MySQL,PostgreSQL and SQLLite,the project implemented:
 
 * Data reliability and recovery 
