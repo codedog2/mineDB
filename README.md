@@ -2,7 +2,8 @@
 
 MineDB is a simple database implemented by Java,
 some principles are referenced from MySQL,PostgreSQL and SQLLite,
-/nthe project implemented:
+
+the project implemented:
 
 * Data reliability and recovery 
 * Two-Phase Locking (2PL) for serializable scheduling
